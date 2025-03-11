@@ -1,1 +1,4 @@
 networkx
+pyvis.network
+io
+json
